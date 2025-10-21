@@ -19,7 +19,7 @@
 ## 関連リンク
 
 - [東京都立大学 システムデザイン学部](https://www.tmu.ac.jp/academics/faculty/sd.html)
-- [インダストリアルアート学科](https://www.tmu.ac.jp/academics/faculty/sd/ia.html)
+- [インダストリアルアート学科](https://industrial-art.sd.tmu.ac.jp/)
 
 ---
 
